@@ -11,7 +11,7 @@ I am dedicated to creating elegant and efficient mobile applications using Flutt
 
 ## Skills
 
-- **Languages:**C, Dart
+- **Languages:** C, Dart
 - **Frameworks:** Flutter
 - **Version Control:** Git
 - **UI/UX Design:** Adobe XD, Figma
@@ -26,8 +26,8 @@ I am dedicated to creating elegant and efficient mobile applications using Flutt
 I'm always open to collaboration and networking. Feel free to reach out to me:
 
 - **Email:** hossainahmad76@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](Link to LinkedIn)
-- **Twitter:** [@YourTwitterHandle](Link to Twitter)
+- **LinkedIn:** https://www.linkedin.com/in/hossain-ahmed-5135a6185/
+
 
 ## Thanks for visiting! 😊
 Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to get in touch. Happy coding!
